@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6142e45-63f9-4e7d-93db-bb8b68d54bc1" name="Default" comment="">
+<<<<<<< Updated upstream
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/inputDiary.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/addOne.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/addOne.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/addpagos.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/addpagos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/app.js" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/controllers/cobrosOld.js" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/controllers/cobrosOld.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/controllers/pagosController.js" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/controllers/pagosController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratos.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratosActivos3.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratosActivos3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getContratoOld.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getContratoOld.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getContratosActivos2.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getContratosActivos2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getNames.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getNames.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/getPhones.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/getPhones.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/insertContrato.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/insertContrato.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/modificar.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/modificar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/selectAll.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/selectAll.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/roles_cuotas/updatePagoDelete.php" afterPath="$PROJECT_DIR$/sistema/roles_cuotas/updatePagoDelete.php" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/conexion/conexion.php" afterPath="$PROJECT_DIR$/sistema/conexion/conexion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistema/producto/ver_producto.php" afterPath="$PROJECT_DIR$/sistema/producto/ver_producto.php" />
+>>>>>>> Stashed changes
+    </list>
+    <ignored path="sistemaContableELECTROPARC.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sistemaContableELECTROPARC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< Updated upstream
+      <file leaf-file-name="saveAbonoLegacy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/saveAbonoLegacy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1498264648643" expanded="true" signature="459:762" placeholder="INSERT INTO `abono_legacy`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectAll.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/selectAll.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+              <folding>
+                <marker date="1498572378089" expanded="true" signature="136:554" placeholder="SELECT b.id_... rol_pago" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectEmpleado.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/selectEmpleado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495290844137" expanded="true" signature="137:159" placeholder="select * fro... empleado" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPostphp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/testPostphp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updatePago.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updatePago.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495290844233" expanded="true" signature="267:389" placeholder="UPDATE pagos... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updatePagoDelete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updatePagoDelete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1498572508158" expanded="true" signature="344:573" placeholder="INSERT INTO `pagos_credito_borrados`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updateStateCont.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updateStateCont.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <marker date="1495290844257" expanded="true" signature="205:290" placeholder="UPDATE contr... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updateStateOldCuota.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updateStateOldCuota.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="conexion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/conexion/conexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="db2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/db2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding />
+=======
+      <file leaf-file-name="ver_producto.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sistema/producto/ver_producto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="245" column="70" selection-start-line="245" selection-start-column="70" selection-end-line="245" selection-end-column="70" />
+              <folding>
+                <marker date="1499820525694" expanded="true" signature="2495:2639" placeholder="..." />
+                <marker date="1499820525694" expanded="true" signature="7317:7366" placeholder="SELECT empre... proveedor" />
+                <marker date="1499820525694" expanded="true" signature="7783:7823" placeholder="SELECT nombr... grupo" />
+                <marker date="1499820525694" expanded="true" signature="8237:8283" placeholder="SELECT nombr... subgrupo" />
+              </folding>
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< Updated upstream
+=======
+        <option value="$PROJECT_DIR$/sistema/reporte_cuentasCobrar/index.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_cuentasCobrar/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_cuentasPagar/index.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_fact_compras_iva0iva12/index.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_fact_compras_iva0iva12/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_fact_ventas_iva0iva12/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_historial_cliente_ventas_detallado/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_historial_cliente_ventas_detallado/index.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_historial_cliente_ventas_totales/index.php" />
+        <option value="$PROJECT_DIR$/sistema/reporte_kardex/index.php" />
+>>>>>>> Stashed changes
+        <option value="$PROJECT_DIR$/sistema/reporte_retenciones_mes/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/reportes_cuentas/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/retencionero/modificar_retencionero.php" />
+        <option value="$PROJECT_DIR$/sistema/retencionero/save_retencionero.php" />
+        <option value="$PROJECT_DIR$/sistema/retenciones/guardar_retencion.php" />
+        <option value="$PROJECT_DIR$/sistema/retenciones/modificar_retencion.php" />
+        <option value="$PROJECT_DIR$/sistema/retenciones/new_retencion.php" />
+        <option value="$PROJECT_DIR$/sistema/retenciones/ver_retencion.php" />
+        <option value="$PROJECT_DIR$/sistema/retenciones_anuladas/ver_retencion.php" />
+        <option value="$PROJECT_DIR$/sistema/ruc/frame_factureros.php" />
+        <option value="$PROJECT_DIR$/sistema/ruc/index.php" />
+        <option value="$PROJECT_DIR$/sistema/ruc/save_ruc.php" />
+        <option value="$PROJECT_DIR$/sistema/ruc/ver_facturero.php" />
+        <option value="$PROJECT_DIR$/sistema/subgrupo/eliminar_subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/subgrupo/modificar_subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/subgrupo/new_subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/subgrupo/save_subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/subgrupo/ver_subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/eliminar_producto.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/modificar_producto.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/new_producto.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/save_producto.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/subgrupo.php" />
+        <option value="$PROJECT_DIR$/sistema/transformacion_inventario/ver_producto.php" />
+        <option value="$PROJECT_DIR$/sistema/tributacion_ats/ats.php" />
+        <option value="$PROJECT_DIR$/sistema/usuario/modificar.php" />
+        <option value="$PROJECT_DIR$/sistema/usuario/new.php" />
+        <option value="$PROJECT_DIR$/sistema/usuario/rejilla.php" />
+        <option value="$PROJECT_DIR$/sistema/usuario/save.php" />
+        <option value="$PROJECT_DIR$/sistema/cobros/frame_cobros.php" />
+        <option value="$PROJECT_DIR$/sistema/pagos/frame_pagos.php" />
+        <option value="$PROJECT_DIR$/sistema/imprimir/imprimir_factura_electroparc.php" />
+        <option value="$PROJECT_DIR$/sistema/facturas_clientes/guardar_factura.php" />
+        <option value="$PROJECT_DIR$/sistema/producto_serie/class/Productoserie.php" />
+        <option value="$PROJECT_DIR$/sistema/facturas_clientes/js/articulos_factura.js" />
+<<<<<<< Updated upstream
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/app.js" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/controllers/cobrosOld.js" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/controllers/pagosController.js" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getContratosActivos2.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/inputDiary.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getContratoOld.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/addOne.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/addpagos.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratos.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getAllContratosActivos3.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getNames.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/getPhones.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/insertContrato.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/modificar.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/selectAll.php" />
+        <option value="$PROJECT_DIR$/sistema/roles_cuotas/updatePagoDelete.php" />
+=======
+        <option value="$PROJECT_DIR$/sistema/facturas_proveedores/new_facturacompra.php" />
+        <option value="$PROJECT_DIR$/sistema/facturas_proveedores/guardar_linea.php" />
+        <option value="$PROJECT_DIR$/sistema/facturas_proveedores/frame_lineas.php" />
+        <option value="$PROJECT_DIR$/sistema/facturas_proveedores/guardar_factura.php" />
+        <option value="$PROJECT_DIR$/sistema/imprimir/imprimir_factura_electroparc.php" />
+        <option value="$PROJECT_DIR$/sistema/conexion/conexion.php" />
+        <option value="$PROJECT_DIR$/sistema/producto/ver_producto.php" />
+>>>>>>> Stashed changes
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< Updated upstream
+              <option name="myItemId" value="electroparc" />
+=======
+              <option name="myItemId" value="sistemaContableELECTROPARC" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistemaContableELECTROPARC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistemaContableELECTROPARC" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistemaContableELECTROPARC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistemaContableELECTROPARC" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="producto" />
+>>>>>>> Stashed changes
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+<<<<<<< Updated upstream
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electroparc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sistema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roles_cuotas" />
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conexion" />
+>>>>>>> Stashed changes
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\electroparc\sistemaContableELECTROPARC\sistema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\electroparc\sistemaContableELECTROPARC\sistema\js" />
+    </key>
+  </component>
+<<<<<<< Updated upstream
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sistema/facturas_proveedores/frame_lineas.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sistema/facturas_proveedores/guardar_factura.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sistema/facturas_proveedores/guardar_linea.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sistema/facturas_proveedores/new_facturacompra.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sistema/imprimir/imprimir_factura_electroparc.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+=======
+>>>>>>> Stashed changes
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sistemaContableELECTROPARC/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6142e45-63f9-4e7d-93db-bb8b68d54bc1" name="Default" comment="" />
+      <created>1489254514958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489254514958</updated>
+      <workItem from="1489254516614" duration="1303000" />
+      <workItem from="1489419719302" duration="590000" />
+      <workItem from="1494345025962" duration="4259000" />
+      <workItem from="1494382911883" duration="9949000" />
+      <workItem from="1494422221520" duration="689000" />
+      <workItem from="1494859552479" duration="3915000" />
+      <workItem from="1494987100614" duration="5872000" />
+      <workItem from="1495027691822" duration="12159000" />
+      <workItem from="1495069651840" duration="10873000" />
+      <workItem from="1495118584108" duration="7691000" />
+      <workItem from="1495224308710" duration="144000" />
+      <workItem from="1495229981578" duration="3305000" />
+      <workItem from="1495236688508" duration="1619000" />
+      <workItem from="1495291489816" duration="6364000" />
+      <workItem from="1495458756226" duration="2425000" />
+      <workItem from="1495467380234" duration="2842000" />
+      <workItem from="1495499055804" duration="12053000" />
+      <workItem from="1495551198367" duration="1210000" />
+      <workItem from="1495590848968" duration="5268000" />
+      <workItem from="1495597128464" duration="682000" />
+      <workItem from="1495597861049" duration="4863000" />
+      <workItem from="1495633282345" duration="603000" />
+      <workItem from="1495897326476" duration="4816000" />
+      <workItem from="1495978918659" duration="1301000" />
+      <workItem from="1495985267634" duration="4963000" />
+      <workItem from="1496002296549" duration="18797000" />
+      <workItem from="1496069431419" duration="1509000" />
+      <workItem from="1496236747903" duration="565000" />
+      <workItem from="1496271110251" duration="2199000" />
+      <workItem from="1496285628432" duration="4851000" />
+      <workItem from="1496290628833" duration="1401000" />
+      <workItem from="1496292294475" duration="62000" />
+      <workItem from="1496676229561" duration="480000" />
+      <workItem from="1496844635509" duration="6557000" />
+      <workItem from="1497023888272" duration="2215000" />
+      <workItem from="1497059751017" duration="1198000" />
+      <workItem from="1497103567929" duration="4186000" />
+      <workItem from="1497883875758" duration="775000" />
+      <workItem from="1498009330515" duration="765000" />
+      <workItem from="1498010796781" duration="2965000" />
+      <workItem from="1498014968097" duration="736000" />
+<<<<<<< Updated upstream
+      <workItem from="1498015868509" duration="1681000" />
+      <workItem from="1498264659939" duration="66000" />
+      <workItem from="1498422568506" duration="9224000" />
+      <workItem from="1498572090258" duration="450000" />
+=======
+      <workItem from="1498015868509" duration="1795000" />
+      <workItem from="1498243802696" duration="5600000" />
+      <workItem from="1498253837081" duration="5111000" />
+      <workItem from="1498410105709" duration="91000" />
+      <workItem from="1498574074828" duration="232000" />
+      <workItem from="1499028966193" duration="465000" />
+      <workItem from="1499029535644" duration="23000" />
+      <workItem from="1499029627253" duration="14000" />
+      <workItem from="1499691224657" duration="81000" />
+      <workItem from="1499820502944" duration="29000" />
+>>>>>>> Stashed changes
+    </task>
+    <task id="LOCAL-00001" summary="LocalStorage UP">
+      <created>1494349590317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494349590318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="factura, frame">
+      <created>1494383935003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494383935003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="php corregidos">
+      <created>1494385225389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494385225389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="productos facturas corregidos SELECT">
+      <created>1494385592751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494385592751</updated>
+    </task>
+    <task id="LOCAL-00005" summary="php fixed 1">
+      <created>1494387234128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494387234128</updated>
+    </task>
+    <task id="LOCAL-00006" summary="php fixed 1">
+      <created>1494387920318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494387920318</updated>
+    </task>
+    <task id="LOCAL-00007" summary="php fixed 1.1">
+      <created>1494387934572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1494387934572</updated>
+    </task>
+    <task id="LOCAL-00008" summary="php fixed 2">
+      <created>1494388344245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1494388344245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="integracion v2">
+      <created>1494393124942</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1494393124942</updated>
+    </task>
+    <task id="LOCAL-00010" summary="null fixed INSERTs">
+      <created>1494863356449</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1494863356449</updated>
+    </task>
+    <task id="LOCAL-00011" summary="series class, facturas compra">
+      <created>1495126259067</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1495126259067</updated>
+    </task>
+    <task id="LOCAL-00012" summary="series class, facturas ventas">
+      <created>1495556631788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1495556631788</updated>
+    </task>
+    <task id="LOCAL-00013" summary="proveedor php fixed">
+      <created>1495596502762</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1495596502762</updated>
+    </task>
+    <task id="LOCAL-00014" summary="finish roles pagos">
+      <created>1495597747980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1495597747980</updated>
+    </task>
+    <task id="LOCAL-00015" summary="transferencias series OK">
+      <created>1496015489583</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1496015489583</updated>
+    </task>
+    <task id="LOCAL-00016" summary="transferencias series OK1">
+      <created>1496290266144</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1496290266144</updated>
+    </task>
+    <task id="LOCAL-00017" summary="factura venta new">
+      <created>1496292329933</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1496292329933</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final fixed php">
+      <created>1497112372123</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1497112372123</updated>
+    </task>
+    <task id="LOCAL-00019" summary="null cobras y pagos">
+      <created>1497884602823</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1497884602823</updated>
+    </task>
+    <task id="LOCAL-00020" summary="agrego modulo de cobros antiguo">
+      <created>1498264692768</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1498264692768</updated>
+    </task>
+    <task id="LOCAL-00021" summary="factura completa venta con motos">
+      <created>1498410177747</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1498410177747</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
+    <option name="totallyTimeSpent" value="170440000" />
+=======
+    <option name="totallyTimeSpent" value="172460000" />
+>>>>>>> Stashed changes
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10465116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.063043475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39891306" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LocalStorage UP" />
+    <MESSAGE value="factura, frame" />
+    <MESSAGE value="php corregidos" />
+    <MESSAGE value="productos facturas corregidos SELECT" />
+    <MESSAGE value="php fixed 1" />
+    <MESSAGE value="php fixed 1.1" />
+    <MESSAGE value="php fixed 2" />
+    <MESSAGE value="integracion v2" />
+    <MESSAGE value="null fixed INSERTs" />
+    <MESSAGE value="series class, facturas compra" />
+    <MESSAGE value="series class, facturas ventas" />
+    <MESSAGE value="proveedor php fixed" />
+    <MESSAGE value="finish roles pagos" />
+    <MESSAGE value="transferencias series OK" />
+    <MESSAGE value="transferencias series OK1" />
+    <MESSAGE value="factura venta new" />
+    <MESSAGE value="final fixed php" />
+    <MESSAGE value="null cobras y pagos" />
+    <MESSAGE value="agrego modulo de cobros antiguo" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrego modulo de cobros antiguo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/sistema/bodega_transferencia/new_transferencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/bodega_transferencia/guardar_transferencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4233">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/facturas_clientes/guardar_factura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6766">
+          <caret line="398" column="37" selection-start-line="398" selection-start-column="37" selection-end-line="398" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/facturas_clientes/frame_articulos.php">
+=======
+    <entry file="file://$PROJECT_DIR$/sistema/subgrupo/rejilla.php">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/facturas_clientes/js/articulos_factura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-803">
+          <caret line="224" column="58" selection-start-line="224" selection-start-column="58" selection-end-line="224" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/facturas_clientes/new_facturaventa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="571" column="64" selection-start-line="571" selection-start-column="57" selection-end-line="571" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/producto_serie/class/Productoserie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/oldModule/cobros.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="56" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/controllers/contratoController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/controllers/cobrosOld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7480">
+          <caret line="440" column="27" selection-start-line="416" selection-start-column="19" selection-end-line="440" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/tablaPagos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="75" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/controllers/pagosController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9792">
+          <caret line="576" column="64" selection-start-line="576" selection-start-column="64" selection-end-line="576" selection-end-column="64" />
+          <folding>
+            <element signature="e#24747#25695#0" expanded="false" />
+            <element signature="e#25751#25954#0" expanded="false" />
+            <element signature="e#25989#26136#0" expanded="false" />
+            <element signature="e#26023#26043#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/inputDiary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1498572120043" expanded="true" signature="257:422" placeholder="INSERT INTO cobros... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/addOne.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1498572154733" expanded="true" signature="450:784" placeholder="INSERT INTO `ideweb`.`rol_pago`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/addpagos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1498572154717" expanded="true" signature="300:481" placeholder="INSERT INTO pagos_credito... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getAbonosOld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498264648620" expanded="true" signature="155:197" placeholder="select * fro... abono_legacy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getAbonosPorCuota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498264648621" expanded="true" signature="237:303" placeholder="select SUM(c... abono_legacy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getAllContratos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1498572220087" expanded="true" signature="164:275" placeholder="SELECT * FRO... contrato_credito" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getAllContratosActivos3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1498572220112" expanded="true" signature="164:246" placeholder="SELECT * FRO... contrato_credito" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getClientePrint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290843275" expanded="true" signature="195:235" placeholder="SELECT * FRO... cliente" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getContratoOld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1498572120041" expanded="true" signature="163:687" placeholder="select a.cod... contrato_credito_legacy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getContratosActivos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290843281" expanded="true" signature="162:407" placeholder="SELECT codig... contrato_credito" />
+            <marker date="1495290843281" expanded="true" signature="326:379" placeholder="SELECT id_cl... cliente" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getContratosActivos2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <marker date="1498572120042" expanded="true" signature="162:616" placeholder="SELECT a.cod... contrato_credito" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getCuotas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290843293" expanded="true" signature="185:269" placeholder="SELECT * FRO... pagos_credito" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getCuotasOld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498264648623" expanded="true" signature="155:220" placeholder="select * fro... cuota_legacy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getFactura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290843304" expanded="true" signature="193:341" placeholder="SELECT * FRO... factulinea" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getNames.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1498572248894" expanded="true" signature="164:277" placeholder="SELECT nombr... factulinea" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getPhones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1498572323063" expanded="true" signature="170:227" placeholder="SELECT * FRO... clientefono" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getTotal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498264648624" expanded="true" signature="237:311" placeholder="select * fro... cuota_legacy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getUsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/getUsr2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/insertContrato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <marker date="1498572323040" expanded="true" signature="4164:7703" placeholder="INSERT INTO `contrato_credito`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/modificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <marker date="1498572323089" expanded="true" signature="469:700" placeholder="UPDATE `rol_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/modify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/modifyCont.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290843454" expanded="true" signature="3806:7258" placeholder="UPDATE contr... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/modifyContract.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+=======
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/pagos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/selecContrato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290844123" expanded="true" signature="188:271" placeholder="select * fro... relacion_empleado_contrato" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/saveAbonoLegacy.php">
+=======
+    <entry file="file://$PROJECT_DIR$/sistema/pagos/frame_pagos.php">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498264648643" expanded="true" signature="459:762" placeholder="INSERT INTO `abono_legacy`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/selectAll.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="374">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <marker date="1498572378089" expanded="true" signature="136:554" placeholder="SELECT b.id_... rol_pago" />
+          </folding>
+=======
+        <state relative-caret-position="4250">
+          <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/selectEmpleado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< Updated upstream
+          <folding>
+            <marker date="1495290844137" expanded="true" signature="137:159" placeholder="select * fro... empleado" />
+          </folding>
+=======
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/testPostphp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updatePago.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495290844233" expanded="true" signature="267:389" placeholder="UPDATE pagos... " />
+          </folding>
+=======
+        <state relative-caret-position="918">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updatePagoDelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1498572508158" expanded="true" signature="344:573" placeholder="INSERT INTO `pagos_credito_borrados`... " />
+          </folding>
+=======
+        <state relative-caret-position="9639">
+          <caret line="567" column="104" selection-start-line="567" selection-start-column="92" selection-end-line="567" selection-end-column="104" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updateStateCont.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1495290844257" expanded="true" signature="205:290" placeholder="UPDATE contr... " />
+          </folding>
+=======
+        <state relative-caret-position="3162">
+          <caret line="186" column="22" selection-start-line="186" selection-start-column="22" selection-end-line="186" selection-end-column="22" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/updateStateOldCuota.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="306">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding />
+=======
+        <state relative-caret-position="157">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="53" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+=======
+        <state relative-caret-position="1326">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/roles_cuotas/db2.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+=======
+        <state relative-caret-position="3060">
+          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/cobros/frame_cobros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="90" column="63" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/conexion/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/producto/ver_producto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="245" column="70" selection-start-line="245" selection-start-column="70" selection-end-line="245" selection-end-column="70" />
+          <folding>
+            <marker date="1499820525694" expanded="true" signature="2495:2639" placeholder="..." />
+            <marker date="1499820525694" expanded="true" signature="7317:7366" placeholder="SELECT empre... proveedor" />
+            <marker date="1499820525694" expanded="true" signature="7783:7823" placeholder="SELECT nombr... grupo" />
+            <marker date="1499820525694" expanded="true" signature="8237:8283" placeholder="SELECT nombr... subgrupo" />
+          </folding>
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
